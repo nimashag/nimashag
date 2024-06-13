@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m a Software Engineering Undergraduate at **SLIIT**
 
 - 📫 How to reach me **nimasha.piyumini@gmail.com**
 
@@ -22,10 +22,8 @@
 <a href="https://instagram.com/nimashi_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimashi_g" height="30" width="40" /></a>
 </p>
 
----
-
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<h2 align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></h2>
 
 <p align="center">
   <!--- stats (start) -->
