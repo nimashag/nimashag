@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nimasha Gamage</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Tech+Enthusiast;Former+SE+Intern+%40+WSO2" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;Passionate+SE+Student;Always+Learning+%26+Building+New+Things;Exploring+the+World+of+Technology" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimashag&label=Profile%20views&color=0e75b6&style=flat" alt="nimashag" /> </p>
@@ -67,19 +67,19 @@ I'm actively seeking opportunities to collaborate on full-stack projects and con
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nimasha-gamage-153b03246/" target="_blank">
+  <a href="https://linkedin.com/in/nimasha-gamage-153b03246/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@NimashaGamage" target="_blank">
+  <a href="https://medium.com/@NimashaGamage" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/nimasha_piyumini" target="_blank">
+  <a href="https://www.hackerrank.com/profile/nimasha_piyumini" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://github.com/nimashag" target="_blank">
+  <a href="https://github.com/nimashag" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:nimasha.piyumini@gmail.com">
+  <a href="mailto:nimasha.piyumini@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
