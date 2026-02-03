@@ -1,4 +1,4 @@
-<h1 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nimasha Gamage</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nimasha Gamage</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;Passionate+SE+Student;Always+Learning+%26+Building+New+Things;Exploring+the+World+of+Technology" alt="Typing SVG" /></a>
