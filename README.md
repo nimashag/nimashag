@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nimasha Gamage</h1>
+<h1 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nimasha Gamage</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;Passionate+SE+Student;Always+Learning+%26+Building+New+Things;Exploring+the+World+of+Technology" alt="Typing SVG" /></a>
@@ -64,6 +64,24 @@ I'm actively seeking opportunities to collaborate on full-stack projects and con
 
 ---
 
+### 📚 Latest Blog Posts
+
+- 📖 [My Journey into Linux: From Curiosity to Practical Confidence](https://medium.com/@NimashaGamage)
+- 📖 [WSO2 Ballerina Integration with Google Calendar](https://medium.com/@NimashaGamage)
+- 📖 [DevSecOps for Beginners: How Security Fits into a CI/CD Pipeline](https://medium.com/@NimashaGamage)
+- 📖 [AWS IAM for Beginners — A Simple, Visual Guide](https://medium.com/@NimashaGamage)
+- 📖 [Docker and Kubernetes Explained for Absolute Beginners](https://medium.com/@NimashaGamage)
+
+<p align="center">
+<a href="https://medium.com/@NimashaGamage" target="_blank">
+  <img src="https://img.shields.io/badge/Read%20More%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium"/>
+</a>
+</p>
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -72,14 +90,6 @@ I'm actively seeking opportunities to collaborate on full-stack projects and con
   <a href="https://www.hackerrank.com/profile/nimasha_piyumini" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>&nbsp;
   <a href="https://github.com/nimashag" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
   <a href="mailto:nimasha.piyumini@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Git Activeness</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimashag&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
 ---
