@@ -64,7 +64,7 @@ I'm actively seeking opportunities to collaborate on full-stack projects and con
 
 ---
 
-### 📚 Latest Blog Posts
+## 📚 Latest Blog Posts
 
 - 📖 [My Journey into Linux: From Curiosity to Practical Confidence](https://medium.com/@NimashaGamage)
 - 📖 [WSO2 Ballerina Integration with Google Calendar](https://medium.com/@NimashaGamage)
