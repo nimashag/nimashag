@@ -21,7 +21,7 @@ I'm actively seeking opportunities to collaborate on full-stack projects and con
 - 💻 **Current Focus:** Full-Stack Development & Exploring New Technologies
 - 🤝 **Open to:** Collaboration on Full-Stack Projects
 - 🌱 **Looking for:** Support in developing and scaling my projects
-- 🌐 **Portfolio:** [Visit my website](https://nimashag.github.io)
+- 🌐 **Portfolio:** [Visit my website](https://nimashag.vercel.app)
 - 💻 **Projects:** [Check out my GitHub](https://github.com/nimashag)
 - 📧 **Contact:** nimasha.piyumini@gmail.com
 
@@ -47,7 +47,6 @@ I'm actively seeking opportunities to collaborate on full-stack projects and con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="45" height="45" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" alt="expo" width="45" height="45" style="margin: 10px; background-color: white; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" style="margin: 10px"/>
